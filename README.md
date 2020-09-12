@@ -2,7 +2,7 @@
 In this phase of the Todo List assignment, add proper authentication/authorization, as well as introduce a higher level library for working with Mongo.
 
 
-#Assignment:
+# Assignment:
 # Todo List Auth & Mongoose
 
 In this phase of the Todo List assignment, we add proper authentication/authorization, as well as introduce a higher level library for working with Mongo.
